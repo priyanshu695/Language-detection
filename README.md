@@ -4,7 +4,7 @@ We are using the Language Detection dataset, which contains text details for 17 
 
 Introduction
 
-Every Machine Learning enthusiast has a dream of building/working on a cool project, isn’t it? Mere understandings of the theory aren’t enough, you need to work on projects, try to deploy them, and learn from them. Moreover, working on specific domains like NLP gives you wide opportunities and problem statements to explore. Through this article, I wish to introduce you to an amazing project, the Language Detection model using Natural Language Processing. This will take you through a real-world example of ML(application to say). So, let’s not wait anymore.
+Every Machine Learning enthusiast has a dream of building/working on a cool project, isn’t it? Mere understandings of the theory aren’t enough, you need to work on projects, try to deploy them, and learn from them. Moreover, working on specific domains like NLP gives you wide opportunities and problem statements to explore. Through this article, I wish to introduce you to an amazing project, the Language Detection model using Natural Language Processing.
 
  
 About the dataset
